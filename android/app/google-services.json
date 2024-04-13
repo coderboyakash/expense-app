@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656298026691",
+    "project_id": "expense-tracker-c8ffe",
+    "storage_bucket": "expense-tracker-c8ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656298026691:android:6fe9f0ad0c35e2ce17a476",
+        "android_client_info": {
+          "package_name": "com.coderboy.tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqaeKRgAFyB4yndFTPnTAiVM7SFRc56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
